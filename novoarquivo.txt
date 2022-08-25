@@ -6,3 +6,6 @@ templates, and styles; enhanced support for team collaboration,
 including the ability for several people to work on a single diagram at the same time; 
 and the ability to link diagrams to data instantly. 
 Visio Professional 2021 also helps prevent information leakage by enabling Information Rights Management.
+Commits são usados para criar snapshots (ou fotografias) dos arquivos de um sistema. 
+Uma vez tiradas essas fotografias, elas são armazenadas no sistema de controle de versões, de forma compactada e otimizada, para não ocupar muito espaço em disco.
+Posteriormente, pode-se recuperar qualquer uma das fotografias, para, por exemplo, restaurar uma implementação antiga de um determinado arquivo.
